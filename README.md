@@ -30,8 +30,6 @@ PowerBI, RShiny, Streamlit, Plotly, Dash
 
 ## Contact
 
-Feel free to reach out if you want to collaborate or discuss interesting problems:
-
 * [rhiannaleslie@hotmail.co.uk](mailto:rhiannaleslie@hotmail.co.uk)
 
 ---
