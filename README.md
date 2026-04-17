@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I’m Rhianna 👋
 
-<!--
-**rhiannaleslie/rhiannaleslie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Scientist specialising in analysis, machine learning, and building repreducible analytical pipelines from messy, real-world data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+**Languages & Data Tools**
+Python (Pandas, NumPy, scikit-learn, PyTorch), SQL, R
+
+**Machine Learning & NLP**
+Transformers (BERT, RoBERTa), embeddings, free-text classification, model evaluation
+
+**Data & Engineering**
+Automated pipelines, reproducible workflows, CI/CD, Git/GitHub, modular code, unit testing
+
+**Visualisation & Tools**
+PowerBI, RShiny, Streamlit, Plotly, Dash
+
+---
+
+## 🔗 Links
+
+* 🌐 Portfolio / Website: https://rhiannaleslie.github.io/
+* 💼 LinkedIn: https://linkedin.com/in/rhianna-leslie-1409b01a0
+* 💻 GitHub: https://github.com/rhiannaleslie
+
+---
+
+## 📫 Contact
+
+Feel free to reach out if you want to collaborate or discuss interesting problems:
+
+* [rhiannaleslie@hotmail.co.uk](mailto:rhiannaleslie@hotmail.co.uk)
+
+---
